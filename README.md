@@ -1,2 +1,2 @@
 # Slim9Con
-Documentation please contact author
+Documentation please contact writer
